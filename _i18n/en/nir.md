@@ -15,6 +15,8 @@
 | Aleksei Goncharov | 4 | Space-time series alignment models | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Papers](https://scholar.google.com/citations?user=umbRPRkAAAAJ&hl=en), [Slides](https://github.com/lexix/Goncharov_PhDThesis/blob/main/Goncharov%20-%20Dissertation.pdf), [Thesis](https://www.overleaf.com/project/62b8bc7c4162ad51f49f5087) | 
 | Petr Ostroukhov | 4 | Tensor Methods for Convex Functions Minimization | [Gasnikov A.V.](http://www.mathnet.ru/php/person.phtml?option_lang=rus&personid=27590) | [Paper](https://www.overleaf.com/read/ghshtbymmwym), [Slides](https://disk.yandex.ru/i/9J6zoJHwsMRwqg)|
 | Denis Kuznetsov | 4 | Neural network models of dialogue on general topics | [Burtsev M.S.](https://scholar.google.ru/citations?hl=ru&user=t_PLQakAAAAJ) | [Paper with Code](https://paperswithcode.com/paper/imad-image-augmented-multi-modal-dialogue)|
+| Radoslav Neychev | 4 | Informative prior in privileged learning | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Old paper](http://strijov.com/papers/Shibaev2022Symbolic.pdf), [Paper 1](https://drive.google.com/file/d/1sywZxS5bTXWPzzgUnqzgAH3QZow4BUAi/view?usp=sharing), New paper 2 (in blind review for now) |
+
 
 #### Second Year Master Students
 
