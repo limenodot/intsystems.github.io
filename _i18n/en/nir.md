@@ -14,6 +14,7 @@
 | Vasiliy Alekseev | 3 | Incompleteness and Instability of Topic Models | [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov) | [Paper (draft)](https://github.com/intsystems/2023-Project-131/blob/master/paper/Gorbulev2023TopicModels.pdf), [Slides](https://github.com/intsystems/2023-Project-131/blob/master/slides/Gorbulev2023TopicModelsPresentation.pdf) |
 | Aleksei Goncharov | 4 | Space-time series alignment models | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Papers](https://scholar.google.com/citations?user=umbRPRkAAAAJ&hl=en), [Slides](https://github.com/lexix/Goncharov_PhDThesis/blob/main/Goncharov%20-%20Dissertation.pdf), [Thesis](https://www.overleaf.com/project/62b8bc7c4162ad51f49f5087) | 
 | Petr Ostroukhov | 4 | Tensor Methods for Convex Functions Minimization | [Gasnikov A.V.](http://www.mathnet.ru/php/person.phtml?option_lang=rus&personid=27590) | [Paper](https://www.overleaf.com/read/ghshtbymmwym), [Slides](https://disk.yandex.ru/i/9J6zoJHwsMRwqg)|
+| Denis Kuznetsov | 4 | Neural network models of dialogue on general topics | [Burtsev M.S.](https://scholar.google.ru/citations?hl=ru&user=t_PLQakAAAAJ) | [Paper with Code](https://paperswithcode.com/paper/imad-image-augmented-multi-modal-dialogue)|
 
 #### Second Year Master Students
 
