@@ -1,3 +1,27 @@
+### 2023
+
+
+#### PhD's Theses
+
+| Student | Thesis topic | Scientific adviser | Link to Project | Link to Paper | Link to Slides |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
+
+#### Master's Theses
+
+| Student | Thesis topic | Scientific adviser | Link to Project | Link to Paper | Link to Slides |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Olga Grebenkova | Automatic detection of focal cortical dysplasia for sparse data representation | [Burnaev E.V.](https://scholar.google.ru/citations?user=pCRdcOwAAAAJ) | [Project](https://github.com/intsystems/Grebenkova-MS-Thesis) | [Thesis](https://github.com/intsystems/Grebenkova-MS-Thesis/blob/main/MSc_Thesis_PreDefence_Grebenkova.pdf) | [Slides](https://github.com/Intelligent-Systems-Phystech/Mokrov_Ms_Thesis/tree/master/slides) |
+
+
+
+#### Bachelor's Theses
+
+| Student | Thesis topic | Scientific adviser | Link to Project | Link to Paper | Link to Slides |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
+
+
 ### 2022
 
 
