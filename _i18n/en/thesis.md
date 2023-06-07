@@ -12,6 +12,7 @@
 | Student | Thesis topic | Scientific adviser | Link to Project | Link to Paper | Link to Slides |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Olga Grebenkova | Automatic detection of focal cortical dysplasia for sparse data representation | [Burnaev E.V.](https://scholar.google.ru/citations?user=pCRdcOwAAAAJ) | [Project](https://github.com/intsystems/Grebenkova-MS-Thesis) | [Thesis](https://github.com/intsystems/Grebenkova-MS-Thesis/blob/main/MSc_Thesis_PreDefence_Grebenkova.pdf) | [Slides](https://github.com/Intelligent-Systems-Phystech/Mokrov_Ms_Thesis/tree/master/slides) |
+| Nadezhda Alsahanova | Selection of tensor representations for multiview forecasting | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Project](https://github.com/NadezhdaAlsahanova/MSThesis) | [Thesis](https://github.com/NadezhdaAlsahanova/MSThesis/blob/main/Doc/MS_Thesis_rus.pdf) | [Slides](https://github.com/NadezhdaAlsahanova/MSThesis/blob/main/Slides/Presentation_rus.pdf) |
 
 
 
