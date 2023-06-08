@@ -17,7 +17,7 @@
 | Robert Safiullin | Multimodel representation of dynamic systems	 | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Project](https://github.com/intsystems/Safiullin-MS-Thesis) | [Thesis]( https://github.com/intsystems/Safiullin-MS-Thesis/blob/master/paper/master_diploma.pdf) | [Slides](https://github.com/intsystems/Safiullin-MS-Thesis/blob/master/slides/SafiullinMS_slides%20(2).pdf) |
 | Shokorov Viacheslav | Deep ensemble boosting | [Vetrov D.P.](https://scholar.google.ca/citations?user=7HU0UoUAAAAJ) | [Project](https://github.com/vshokorov/margin_based_ensembles_boosting) | [Thesis](https://github.com/vshokorov/margin_based_ensembles_boosting/blob/main/reports/Shokorov2023MasterThesis.pdf) | [Slides](https://github.com/vshokorov/margin_based_ensembles_boosting/blob/main/reports/Shokorov2023MasterSlides.pdf) |
 | Filatov Andrei | Text Interfaces for Event Sequences | [Strijov V.V.](http://www.ccas.ru/strijov/)  | [Project](https://github.com/intsystems/Filatov-MS-Thesis) | [Thesis](https://github.com/intsystems/Filatov-MS-Thesis/blob/master/paper/FilatovMScThesis.pdf) | [Slides](https://github.com/intsystems/Filatov-MS-Thesis/blob/master/slides/MScThesisPresentation.pdf) |
-
+| Viktor Pankratov | Probabilistic Topic Modeling for Unbalanced Text Collections | [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov) | [Project](https://github.com/intsystems/Pankratov-MS-Thesis) | [Thesis](https://github.com/intsystems/Pankratov-MS-Thesis/blob/main/paper/Pankratov_MS_Thesis.pdf) | [Slides](https://github.com/intsystems/Pankratov-MS-Thesis/blob/main/slides/Pankratov_MS_Thesis.pdf) |
 #### Bachelor's Theses
 
 | Student | Thesis topic | Scientific adviser | Link to Project | Link to Paper | Link to Slides |
