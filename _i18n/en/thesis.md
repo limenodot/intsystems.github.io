@@ -24,7 +24,7 @@
 
 | Student | Thesis topic | Scientific adviser | Link to Project | Link to Paper | Link to Slides |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-
+| Eduard Vladimirov | State space models in ECoG signal classification problem | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Project](https://github.com/intsystems/Vladimirov-BS-Thesis) |[Paper](https://github.com/intsystems/Vladimirov-BS-Thesis/blob/master/paper/VladimirovTSModels.pdf)|[Slides](https://github.com/intsystems/Vladimirov-BS-Thesis/blob/master/slides/VladimirovTSModels.pdf)|
 
 
 ### 2022
