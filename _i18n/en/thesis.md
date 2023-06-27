@@ -28,6 +28,7 @@
 | Georgiy Zharov | Searching for links between fragments of manipulations with named entities in texts | Vorontsov K.V. | [Project](https://github.com/Egor-s-gor/Zharov-BS-Thesis/tree/main) |[Paper](https://github.com/Egor-s-gor/Zharov-BS-Thesis/tree/main/paper)|[Slides](https://github.com/Egor-s-gor/Zharov-BS-Thesis/tree/main/slides)|
 | Alexander Molozhavenko |Riemannian optimization on the manifold of fixed rank tensor trains with the orthogonality condition | Gasnikov A.V. | [Project](https://github.com/intsystems/Molozhavenko-BS-Thesis/tree/master) |[Paper](https://github.com/intsystems/Molozhavenko-BS-Thesis/blob/master/paper/Diploma_pdf/Bachelor_Thesis.pdf)|[Slides](https://github.com/intsystems/Molozhavenko-BS-Thesis/blob/master/slides/Diploma_slides/Diploma_Presentation.pdf)|
 |Ivan Lukyanenko|Manipulation detection in news| Vorontsov. K.V. | [Project](https://github.com/intsystems/Lukyanenko-BS-Thesis) | [Paper](https://github.com/intsystems/Lukyanenko-BS-Thesis/blob/master/Lukyanenko-Thesis-Final.pdf) | [Slides](https://github.com/intsystems/Lukyanenko-BS-Thesis/blob/master/slides/Bachelor_Thesis_Slides.pdf)|
+| Antyshev Tikhon |Gradient Sliding for Composite Saddle Point Problems | Gasnikov A.V. | [Project](https://github.com/intsystems/Antyshev-BS-Thesis/tree/master) |[Paper](https://github.com/intsystems/Antyshev-BS-Thesis/blob/master/paper/Antyshev_Sliding_Thesis.pdf)|[Slides](https://github.com/intsystems/Antyshev-BS-Thesis/blob/master/slides/slides.pdf)|
 
 
 
