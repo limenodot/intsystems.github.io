@@ -29,7 +29,6 @@
 | Alexander Molozhavenko |Riemannian optimization on the manifold of fixed rank tensor trains with the orthogonality condition | Gasnikov A.V. | [Project](https://github.com/intsystems/Molozhavenko-BS-Thesis/tree/master) |[Paper](https://github.com/intsystems/Molozhavenko-BS-Thesis/blob/master/paper/Diploma_pdf/Bachelor_Thesis.pdf)|[Slides](https://github.com/intsystems/Molozhavenko-BS-Thesis/blob/master/slides/Diploma_slides/Diploma_Presentation.pdf)|
 |Ivan Lukyanenko|Manipulation detection in news| Vorontsov. K.V. | [Project](https://github.com/intsystems/Lukyanenko-BS-Thesis) | [Paper](https://github.com/intsystems/Lukyanenko-BS-Thesis/blob/master/Lukyanenko-Thesis-Final.pdf) | [Slides](https://github.com/intsystems/Lukyanenko-BS-Thesis/blob/master/slides/Bachelor_Thesis_Slides.pdf)|
 | Antyshev Tikhon |Gradient Sliding for Composite Saddle Point Problems | Gasnikov A.V. | [Project](https://github.com/intsystems/Antyshev-BS-Thesis/tree/master) |[Paper](https://github.com/intsystems/Antyshev-BS-Thesis/blob/master/paper/Antyshev_Sliding_Thesis.pdf)|[Slides](https://github.com/intsystems/Antyshev-BS-Thesis/blob/master/slides/slides.pdf)|
-
 | Kornilov Nikita |Gradient Free Methods for Non-Smooth Convex Stochastic Optimization with Heavy Tails on Convex Compact | Gasnikov A.V. | [Project](https://github.com/intsystems/Kornilov-BS-Thesis) |[Paper](https://github.com/intsystems/Kornilov-BS-Thesis/blob/main/paper/Kornilov_Diploma_full.pdf)|[Slides](https://github.com/intsystems/Kornilov-BS-Thesis/blob/main/slides/InfZero_Grad_Pres_RUS.pdf)|
 
 ### 2022
