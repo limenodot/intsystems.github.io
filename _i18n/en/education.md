@@ -2,6 +2,11 @@
 
 ## Осенний  семестр, 2023
 
+### Занятия онлайн 
+- бакалавры [m1p.org/go_zoom](https://m1p.org/go_zoom)
+- магистры [m1p.org/go_zoom2](https://m1p.org/go_zoom2)
+- канал [youtube.com/@MachineLearningPhystech](https://www.youtube.com/@MachineLearningPhystech)
+
 ### Расписание занятий
 
 #### 4 курс, 7 семестр - вторник
@@ -42,11 +47,6 @@
 - **14 декабря** - 18:00 Отчет по НИР (документы загружааются с 1 декабря)
 
 ## Весенний семестр, 2023
-
-## Занятия онлайн 
-- бакалавры [m1p.org/go_zoom](https://m1p.org/go_zoom)
-- магистры [m1p.org/go_zoom2](https://m1p.org/go_zoom2)
-- канал [youtube.com/@MachineLearningPhystech](https://www.youtube.com/@MachineLearningPhystech)
 
 #### 3 курс, 6 семестр – четверг
 
