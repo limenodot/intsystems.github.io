@@ -23,9 +23,9 @@
 | Время | Предмет  | Преподаватели  | Форма отчетности | Зачетные единицы |
 |---|---|---|---|---|
 | 10:30-12:00 | [Порождающие модели машинного обучения: лекция](/ru/course/deep_generative_models/index.html) | [Исаченко Р.В.](/ru/people/isachenko_rv/index.html), Мокров П. | Экзамен | 3 |
-| 16:10-17:40 | [Порождающие модели машинного обучения: семинар](/ru/course/deep_generative_models/index.html) | [Исаченко Р.В.](/ru/people/isachenko_rv/index.html), Мокров П. |  |  |
+| 12:10-13:40 | [Порождающие модели машинного обучения: семинар](/ru/course/deep_generative_models/index.html) | [Исаченко Р.В.](/ru/people/isachenko_rv/index.html), Мокров П. |  |  |
 | 14:30-16:00 | [Байесовское мультимоделирование](/ru/course/bayesian_multimodeling/index.html) | [Бахтеев О.Ю.](/ru/people/bakhteev_oy/index.html) | Дифф. зачет | 2 |
-| 12:10-13:40 | [Создание интеллектуальных систем](/ru/course/rnd_in_ai/index.html) | [Грабовой А.А.](/ru/people/grabovoy_av/index.html) | Дифф. зачет | 2 |
+| 16:10-17:40 | [Создание интеллектуальных систем](/ru/course/rnd_in_ai/index.html) | [Грабовой А.А.](/ru/people/grabovoy_av/index.html) | Дифф. зачет | 2 |
 
 #### 6 курс, 11 семестр - четверг
 
