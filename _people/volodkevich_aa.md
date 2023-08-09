@@ -3,7 +3,7 @@ title: peoples.title.volodkevich_aa
 name: peoples.name
 edit: true
 position: gs
-avatar:
+avatar: volodkevich_aa.jpg
 mail:
 site: 
 scholar: 
