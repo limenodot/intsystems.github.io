@@ -37,8 +37,8 @@
 1. [дипломные работы](https://is-mipt.site/ru/materials/thesis/), [отчеты НИР](https://is-mipt.site/ru/materials/nir/), 
 2. [презентации магистров](https://www.youtube.com/watch?v=f4C9U59krTE&t=39s), [презентации бакалавров](https://www.youtube.com/watch?v=mmAacGSUvPQ)
 
-### Пробные задачи весна 2022 и более ранние 
-[Ссылка](http://www.machinelearning.ru/wiki/index.php?title=%D0%9F%D1%80%D0%BE%D0%B1%D0%BD%D1%8B%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8) – весна 2023 будут тут же 
+### Пробные задачи осень 2022 и более ранние 
+[Ссылка](http://www.machinelearning.ru/wiki/index.php?title=%D0%9F%D1%80%D0%BE%D0%B1%D0%BD%D1%8B%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8) – осень 2023 будут тут же 
 
 ### Советы по решению задач (это просто советы, а не указания)
 - Теоретическое решение важнее практического.
