@@ -1,4 +1,4 @@
-I am a Phd student at [Moscow Institute of Physics and Tecnhology](https://mipt.ru/english/) (MIPT).
+I am a Phd student at [Moscow Institute of Physics and Tecnhology](https://mipt.ru/english/) (MIPT) and member of [Sber AI Lab](https://sberlabs.com/laboratories/sber-ai-lab).
 
 **Professional interests:** Recommender systems, Reinforcement Learning.
 
