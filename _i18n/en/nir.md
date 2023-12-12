@@ -1,6 +1,33 @@
+### 2023 FALL
+
+#### Postgraduate Students
+
+| Postgraduate student | Year | PhD thesis topic | Scientific adviser | Link to publication |
+|:---:|:---:|:---:|:---:|:---:|
+| Pavel Severilov | 1 | Decoding of multimodal signals of brain activity | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Paper](https://dl.acm.org/doi/pdf/10.1145/3523227.3551485), [Code](https://github.com/severilov/phd-thesis), [Slides](https://github.com/severilov/phd-thesis/tree/main/slides)|
+
+#### Second Year Master Students
+
+| Student | Year | Thesis topic | Scientific adviser | Link to publication |
+|:---:|:---:|:---:|:---:|:---:|
+| Rustem Islamov | 2 | Distributed Newton-Type Methods with Communication Compression and Bernoulli Aggregation | [Strijov V.V.](http://www.ccas.ru/strijov/), [Richtarik P.](https://richtarik.org/) | [Paper](https://github.com/intsystems/Islamov-MS-Thesis/blob/main/Paper/Islamov2023MasterThesis.pdf), [Code](https://github.com/intsystems/Islamov-MS-Thesis/tree/main/Code), [Slides](https://github.com/intsystems/Islamov-MS-Thesis/blob/main/Presentation/Islamov2023PresentationMS.pdf) |
+| Filatov Andrei  | 2 | Text interfaces for event sequences | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Paper](https://github.com/intsystems/Filatov-MS-Thesis/blob/master/paper/FilatovMIPTThesis.pdf),  [Slides]
+
+#### First Year Master Students
+
+| Student | Year | Topic | Scientific adviser | Link to publication |
+|:---:|:---:|:---:|:---:|:---:|
+| Yakovlev Konstantin | 1 | Concordant Neural Architecture Search on Multidomain Data | Bakhteev O. Y. | [Paper](https://github.com/Konstantin-Iakovlev/Concord-NAS/blob/e0695bf94256170ceb6e2860815b1f45bea950eb/paper/main.pdf), [Code](https://github.com/Konstantin-Iakovlev/Concord-NAS/tree/rnn), [Slides](https://github.com/Konstantin-Iakovlev/Concord-NAS/blob/rnn/slides/main.pdf) |
+
+#### Fourth Year Bachelor Students
+
+| Student | Year | Thesis topic | Scientific adviser | Link to publication |
+|:---:|:---:|:---:|:---:|:---:|
+| Antyshev Tikhon | 4 | Gradient Sliding for Saddle Point problems with one composite | Gasnikov A. V. | [Code](https://github.com/intsystems/Antyshev-BS-Thesis) [Paper](https://github.com/intsystems/Antyshev-BS-Thesis/blob/master/paper/SaddleSlidingArticle.pdf) [Slides](https://github.com/intsystems/Antyshev-BS-Thesis/blob/master/slides/slides.pdf)|
+
+
+
 ### 2023 SPRING
-
-
 
 #### Postgraduate Students
 
