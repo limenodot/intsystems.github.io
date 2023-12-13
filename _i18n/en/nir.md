@@ -12,7 +12,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 | Rustem Islamov | 2 | Distributed Newton-Type Methods with Communication Compression and Bernoulli Aggregation | [Strijov V.V.](http://www.ccas.ru/strijov/), [Richtarik P.](https://richtarik.org/) | [Paper](https://github.com/intsystems/Islamov-MS-Thesis/blob/main/Paper/Islamov2023MasterThesis.pdf), [Code](https://github.com/intsystems/Islamov-MS-Thesis/tree/main/Code), [Slides](https://github.com/intsystems/Islamov-MS-Thesis/blob/main/Presentation/Islamov2023PresentationMS.pdf) |
 | Filatov Andrei  | 2 | Text interfaces for event sequences | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Paper](https://github.com/intsystems/Filatov-MS-Thesis/blob/master/paper/FilatovMIPTThesis.pdf),  [Slides] |
-| Kovaleva Maria | 2 | Addition of global information for enhancement of local embeddings for transactional data models | [Zaytsev A.A]() | [Paper](https://www.overleaf.com/read/njchvmypnrfm#afd2c6), [Slides](https://www.overleaf.com/read/zdjxcjyxqnfq#d96789) |
+| Kovaleva Maria | 2 | Addition of global information for enhancement of local embeddings for transactional data models | [Zaytsev A.A](https://faculty.skoltech.ru/people/alexeizaitsev) | [Paper](https://www.overleaf.com/read/njchvmypnrfm#afd2c6), [Slides](https://www.overleaf.com/read/zdjxcjyxqnfq#d96789) |
 
 #### First Year Master Students
 
