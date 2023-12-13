@@ -25,6 +25,7 @@
 | Student | Year | Thesis topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
 | Antyshev Tikhon | 4 | Gradient Sliding for Saddle Point problems with one composite | Gasnikov A. V. | [Code](https://github.com/intsystems/Antyshev-BS-Thesis) [Paper](https://github.com/intsystems/Antyshev-BS-Thesis/blob/master/paper/SaddleSlidingArticle.pdf) [Slides](https://github.com/intsystems/Antyshev-BS-Thesis/blob/master/slides/slides.pdf)|
+| Kiselev Nikita | 4 | Bayesian Sample Size Estimation | [Grabovoy A. V.](https://andriygav.github.io) | [Paper](https://github.com/kisnikser/Bayesian-Sample-Size-Estimation/blob/main/paper/main.pdf) [Code](https://github.com/kisnikser/Bayesian-Sample-Size-Estimation/tree/main/code) [Slides](https://github.com/kisnikser/Bayesian-Sample-Size-Estimation/blob/main/slides/main.pdf)|
 
 
 
