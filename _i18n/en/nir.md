@@ -39,6 +39,7 @@
 | Terentyev Alexander | 4 | Classification of trajectories of dynamic systems with physics-informed neural networks | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Paper](https://github.com/lopate/lagrange_classification/blob/master/paper/paper.pdf), [Code](https://github.com/lopate/lagrange_classification/tree/master/code)|
 | Veprikov Andrey | 4 | A mathematical model of the hidden feedback loop effects in machine learning systems | [Khritankov A.S.](https://www.hse.ru/org/persons/501143261) | [Paper](https://www.overleaf.com/read/whbcvrmnhgpj#914b2d), [Code](https://gitlab.com/repeated_ml/2023-project-119), [Slides](https://www.overleaf.com/read/nrhdjnjmxfqd#517273) |
 | Ignashin Igor | 4 | Bayesian distilation of transformer-based models | [Grabovoy A.V.](https://andriygav.github.io) | [Paper](), [Code](), [Slides]() |
+| Remizova Anna | 4 | Altering latent representation in the audio style transfer task | [Grabovoy A.V.](https://andriygav.github.io) | [Paper](https://github.com/AnnaRemi/BachelorThesis/tree/master/paper), [Code](https://github.com/AnnaRemi/BachelorThesis/tree/master/code), [Slides]() |
 
 ### 2023 SPRING
 
