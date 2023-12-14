@@ -32,8 +32,7 @@
 | Kiselev Nikita | 4 | Bayesian Sample Size Estimation | [Grabovoy A. V.](https://andriygav.github.io) | [Paper](https://github.com/kisnikser/Bayesian-Sample-Size-Estimation/blob/main/paper/main.pdf), [Code](https://github.com/kisnikser/Bayesian-Sample-Size-Estimation/tree/main/code), [Slides](https://github.com/kisnikser/Bayesian-Sample-Size-Estimation/blob/main/slides/main.pdf)|
 | Kreinin Matvei | 4 | On methods with preconditioning and weight decaying | [Beznosikov A. N.](https://anbeznosikov.github.io/) | [Paper](https://github.com/kreininmv/NIR/blob/master/paper.pdf), [Code](https://github.com/kreininmv/NIR/tree/master/code), [Slides](https://github.com/kreininmv/NIR/blob/master/slides.pdf)|
 | Ilgam Latypov | 4 | Research On multicriteria optimization using Shapley Value | [Dorn Y.V.](https://scholar.google.ru/citations?hl=ru&user=ByIc-l8AAAAJ&view_op=list_works&sortby=pubdate) | [Paper](https://github.com/xxamxam/NIR/tree/main/docs/НИР_english.pdf), [Code](https://github.com/xxamxam/NIR), [Slides](https://github.com/xxamxam/NIR/tree/main/docs/НИР_презентация.pdf)|
-
-
+| Anastasiia Vozniuk | 4 | Detection of Machine-Generated Fragments | [Grabovoy A.V.](https://andriygav.github.io) | [Paper](), [Code](https://github.com/intsystems/2023-Project-126), [Slides]()|
 
 
 ### 2023 SPRING
