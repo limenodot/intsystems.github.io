@@ -23,6 +23,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 | Yakovlev Konstantin | 1 | Concordant Neural Architecture Search on Multidomain Data | Bakhteev O. Y. | [Paper](https://github.com/Konstantin-Iakovlev/Concord-NAS/blob/e0695bf94256170ceb6e2860815b1f45bea950eb/paper/main.pdf), [Code](https://github.com/Konstantin-Iakovlev/Concord-NAS/tree/rnn), [Slides](https://github.com/Konstantin-Iakovlev/Concord-NAS/blob/rnn/slides/main.pdf) |
 | Galina Boeva | 1 | Identifying the relationship between labels using an attention-based algorithm for the Next Basket Recommendation task |  [Zaytsev A.A](https://faculty.skoltech.ru/people/alexeizaitsev) | [Paper](https://github.com/Gaechka777/Temporal_sets/tree/main/paper) [Code](https://github.com/Gaechka777/Temporal_sets/tree/main) [Slides] |
+| Bair Mikhailov | 1 | Undersampled MRI Reconstruction |  [Dylov D.V](https://faculty.skoltech.ru/people/dmitrydylov) | [Slides]|
 
 #### Fourth Year Bachelor Students
 
