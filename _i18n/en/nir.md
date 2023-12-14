@@ -43,6 +43,7 @@
 | Remizova Anna | 4 | Altering latent representation in the audio style transfer task | [Grabovoy A.V.](https://andriygav.github.io) | [Paper](https://github.com/AnnaRemi/BachelorThesis/tree/master/paper), [Code](https://github.com/AnnaRemi/BachelorThesis/tree/master/code), [Slides]() |
 | Babkin Petr | 4 | Differential neural ensemble search with diversity control | Bakhteev O.Y. | [Paper](https://github.com/intsystems/2023-Project-120/blob/master/paper/main.pdf), [Code](https://github.com/intsystems/2023-Project-120/tree/master/code), [Slides](https://github.com/intsystems/2023-Project-120/blob/master/slides/slides_for_m1p.pdf) |
 | Nikitina Maria | 4 | Analysis of distribution bias in contrastive learning| [Isachenko R.V.](https://intsystems.github.io/ru/people/isachenko_rv/index.html) | [Paper](https://github.com/NikitinaMaria/Contrastive_learning/blob/main/Paper/NikitinaPaper.pdf), [Code](https://github.com/NikitinaMaria/Contrastive_learning/tree/main/Code), [Slides](https://github.com/NikitinaMaria/Contrastive_learning/blob/main/Paper/Presentation/NikitinaSlides.pdf) |
+| Oleinik Mikhail | 4 | Knowledge distillation in deep neural networks using model structure alignment methods |[Bakhteev O.Y.](http://www.machinelearning.ru/wiki/index.php?title=Участник:Oleg_Bakhteev) | [Paper](https://github.com/Ganddalf/BachelorThesis/blob/main/paper/main.pdf), [Code](https://github.com/Ganddalf/BachelorThesis/tree/main/code), [Slides](https://github.com/Ganddalf/BachelorThesis/blob/main/slides/main.pdf) |
 
 ### 2023 SPRING
 
