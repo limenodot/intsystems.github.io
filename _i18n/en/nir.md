@@ -18,6 +18,7 @@
 | Tolmachev Alexander | 2 | Information Bottleneck Analysis of Deep Neural Networks | [Alexey Frolov](https://faculty.skoltech.ru/people/alexeyfrolov) | [Paper](https://openreview.net/forum?id=huGECz8dPp), [Slides](https://github.com/Alexandr-Tolmachev/Master-Thesis-public/blob/main/Report.pdf) |
 | Klypa Roman | 2 | Generative modeling for protein structure and interactions | [Grudinin S.V.](https://team.inria.fr/nano-d/team-members/sergei-grudinin/) | [Slides](https://github.com/romanklypa/intsystems_thesis/blob/main/slides_nir2023fall.pdf), [Code](https://gricad-gitlab.univ-grenoble-alpes.fr/GruLab/multi-partner-diff)|
 | Polina Barabanshchikova | 2 | Tverberg type theorems |  [Alexander Polyanskii](http://polyanskii.com/)| [Paper](https://www.sciencedirect.com/science/article/pii/S0012365X23003801?via%3Dihub)
+| Konstantin Yakovlev | 2 | Concordant Neural Architecture Search on Multidomain Data | Bakhteev O. Y. | [Paper](https://github.com/Konstantin-Iakovlev/HyperOpt/blob/main/paper/HPO.pdf), [Slides](https://github.com/Konstantin-Iakovlev/HyperOpt/blob/main/slides/main.pdf), [Code](https://github.com/Konstantin-Iakovlev/HyperOpt/tree/main)
 
 #### First Year Master Students
 
