@@ -29,6 +29,8 @@
 | Antyshev Tikhon | 4 | Gradient Sliding for Saddle Point problems with one composite | Gasnikov A. V. | [Code](https://github.com/intsystems/Antyshev-BS-Thesis) [Paper](https://github.com/intsystems/Antyshev-BS-Thesis/blob/master/paper/SaddleSlidingArticle.pdf) [Slides](https://github.com/intsystems/Antyshev-BS-Thesis/blob/master/slides/slides.pdf)|
 | Kiselev Nikita | 4 | Bayesian Sample Size Estimation | [Grabovoy A. V.](https://andriygav.github.io) | [Paper](https://github.com/kisnikser/Bayesian-Sample-Size-Estimation/blob/main/paper/main.pdf), [Code](https://github.com/kisnikser/Bayesian-Sample-Size-Estimation/tree/main/code), [Slides](https://github.com/kisnikser/Bayesian-Sample-Size-Estimation/blob/main/slides/main.pdf)|
 | Kreinin Matvei | 4 | On methods with preconditioning and weight decaying | [Beznosikov A. N.](https://anbeznosikov.github.io/) | [Paper](https://github.com/kreininmv/NIR/blob/master/paper.pdf), [Code](https://github.com/kreininmv/NIR/tree/master/code), [Slides](https://github.com/kreininmv/NIR/blob/master/slides.pdf)|
+| Ilgam Latypov | 4 | Research On multicriteria optimization using Shapley Value | [Dorn Y.V.](https://scholar.google.ru/citations?hl=ru&user=ByIc-l8AAAAJ&view_op=list_works&sortby=pubdate) | [Paper](https://github.com/xxamxam/NIR/tree/main/docs/НИР_english.pdf), [Code](https://github.com/xxamxam/NIR), [Slides](https://github.com/xxamxam/NIR/tree/main/docs/НИР_презентация.pdf)|
+
 
 
 
