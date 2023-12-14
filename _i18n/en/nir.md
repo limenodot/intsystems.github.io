@@ -25,6 +25,7 @@
 | Galina Boeva | 1 | Identifying the relationship between labels using an attention-based algorithm for the Next Basket Recommendation task |  [Zaytsev A.A](https://faculty.skoltech.ru/people/alexeizaitsev) | [Paper](https://github.com/Gaechka777/Temporal_sets/tree/main/paper) [Code](https://github.com/Gaechka777/Temporal_sets/tree/main) [Slides] |
 | Bair Mikhailov | 1 | Undersampled MRI Reconstruction |  [Dylov D.V](https://faculty.skoltech.ru/people/dmitrydylov) | [Slides]|
 | Kseniia Petrushina | 1 | Detection of hallucinations of language models |  [Alexander Panchenko](https://msc.skoltech.ru/alexanderpanchenko) | [Slides] [Code]|
+| Arina Chumachenko | 1 | Machine learning methods for functional brain mapping |  [Maxim Sharaev](https://msc.skoltech.ru/maxim-sharaev) | [Slides] [Code]|
 
 #### Fourth Year Bachelor Students
 
