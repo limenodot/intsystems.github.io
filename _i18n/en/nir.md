@@ -14,6 +14,7 @@
 | Filatov Andrei  | 2 | Text interfaces for event sequences | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Paper](https://github.com/intsystems/Filatov-MS-Thesis/blob/master/paper/FilatovMIPTThesis.pdf),  [Slides] |
 | Kovaleva Maria | 2 | Addition of global information for enhancement of local embeddings for transactional data models | [Zaytsev A.A](https://faculty.skoltech.ru/people/alexeizaitsev) | [Paper](https://www.overleaf.com/read/njchvmypnrfm#afd2c6), [Slides](https://www.overleaf.com/read/zdjxcjyxqnfq#d96789) |
 | Tolmachev Alexander | 2 | Information Bottleneck Analysis of Deep Neural Networks | [Alexey Frolov](https://faculty.skoltech.ru/people/alexeyfrolov) | [Slides](https://github.com/Alexandr-Tolmachev/Master-Thesis-public/blob/main/Report.pdf) |
+| Klypa Roman | 2 | Generative modeling for protein structure and interactions | [Grudinin S.V.] (https://team.inria.fr/nano-d/team-members/sergei-grudinin/) | [Slides] (https://github.com/romanklypa/intsystems_thesis/blob/main/slides_nir2023fall.pdf) [Code] (https://gricad-gitlab.univ-grenoble-alpes.fr/GruLab/multi-partner-diff)|
 
 #### First Year Master Students
 
