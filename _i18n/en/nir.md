@@ -33,7 +33,7 @@
 | Kseniia Petrushina | 1 | Detection of hallucinations of language models |  [Alexander Panchenko](https://msc.skoltech.ru/alexanderpanchenko) | [Slides] [Code]|
 | Arina Chumachenko | 1 | Machine learning methods for functional brain mapping |  [Maxim Sharaev](https://msc.skoltech.ru/maxim-sharaev) | [Slides] [Code]|
 |Nikita Kornilov| 1 |Intermediate Gradients Methods with Relative Inexactness|Alexandr Gasnikov| [Slides](https://github.com/intsystems/Kornilov_2023_NIR/blob/master/slides/InterRel_pres_rus.pdf) [Code](https://github.com/intsystems/Kornilov_2023_NIR/blob/master/code/Numerical_exp_ISTM.ipynb) [Paper](https://github.com/intsystems/Kornilov_2023_NIR/blob/master/paper/2023_JOTA_Intermediate_Methods_with_Relative_Inexactness.pdf)| 
-| Dmitry Protasov | 1 | Automatic Music Transcription | Ivan Matveev | TODO |
+| Dmitry Protasov | 1 | Automatic Music Transcription | Ivan Matveev | [Slides](https://github.com/Vosatorp/MusicNIR/blob/main/docs/MusicNIR_Slides.pdf) [Code](https://github.com/Vosatorp/MusicNIR/tree/main) [Draft](https://github.com/Vosatorp/MusicNIR/blob/main/docs/MusicNIR_Paper.pdf) |
 
 #### Fourth Year Bachelor Students
 
