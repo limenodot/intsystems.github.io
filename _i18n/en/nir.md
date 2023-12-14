@@ -41,6 +41,7 @@
 | Ignashin Igor | 4 | Bayesian distilation of transformer-based models | [Grabovoy A.V.](https://andriygav.github.io) | [Paper](), [Code](), [Slides]() |
 | Remizova Anna | 4 | Altering latent representation in the audio style transfer task | [Grabovoy A.V.](https://andriygav.github.io) | [Paper](https://github.com/AnnaRemi/BachelorThesis/tree/master/paper), [Code](https://github.com/AnnaRemi/BachelorThesis/tree/master/code), [Slides]() |
 | Babkin Petr | 4 | Differential neural ensemble search with diversity control | Bakhteev O.Y. | [Paper](https://github.com/intsystems/2023-Project-120/blob/master/paper/main.pdf), [Code](https://github.com/intsystems/2023-Project-120/tree/master/code), [Slides](https://github.com/intsystems/2023-Project-120/blob/master/slides/slides_for_m1p.pdf) |
+| Nikitina Maria | 4 | Analysis of distribution bias in contrastive learning| [Isachenko R.V.](https://intsystems.github.io/ru/people/isachenko_rv/index.html) | [Paper](https://github.com/NikitinaMaria/Contrastive_learning/blob/main/Paper/NikitinaPaper.pdf), [Code](https://github.com/NikitinaMaria/Contrastive_learning/tree/main/Code), [Slides](https://github.com/NikitinaMaria/Contrastive_learning/blob/main/Paper/Presentation/NikitinaSlides.pdf) |
 
 ### 2023 SPRING
 
