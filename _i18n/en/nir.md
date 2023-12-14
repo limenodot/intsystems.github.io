@@ -34,7 +34,7 @@
 | Kreinin Matvei | 4 | On methods with preconditioning and weight decaying | [Beznosikov A. N.](https://anbeznosikov.github.io/) | [Paper](https://github.com/kreininmv/NIR/blob/master/paper.pdf), [Code](https://github.com/kreininmv/NIR/tree/master/code), [Slides](https://github.com/kreininmv/NIR/blob/master/slides.pdf)|
 | Ilgam Latypov | 4 | Research On multicriteria optimization using Shapley Value | [Dorn Y.V.](https://scholar.google.ru/citations?hl=ru&user=ByIc-l8AAAAJ&view_op=list_works&sortby=pubdate) | [Paper](https://github.com/xxamxam/NIR/tree/main/docs/НИР_english.pdf), [Code](https://github.com/xxamxam/NIR), [Slides](https://github.com/xxamxam/NIR/tree/main/docs/НИР_презентация.pdf)|
 | Anastasiia Vozniuk | 4 | Detection of Machine-Generated Fragments in Text | [Grabovoy A.V.](https://andriygav.github.io) | [Paper](https://github.com/intsystems/2023-Project-126/blob/master/paper/Voznyuk2023DetectionOfFragments.pdf), [Code](https://github.com/intsystems/2023-Project-126/tree/master/code), [Slides](https://github.com/intsystems/2023-Project-126/tree/master/slides/Autumn2023Report.pdf)|
-
+| Terentyev Alexander | 4 | Classification of trajectories of dynamic systems with physics-informed neural networks | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Paper](https://github.com/lopate/lagrange_classification/blob/master/paper/paper.pdf), [Code](https://github.com/lopate/lagrange_classification/tree/master/code)|
 
 ### 2023 SPRING
 
