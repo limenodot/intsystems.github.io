@@ -5,7 +5,7 @@
 | Postgraduate student | Year | PhD thesis topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
 | Pavel Severilov | 1 | Decoding of multimodal signals of brain activity | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Paper](https://dl.acm.org/doi/pdf/10.1145/3523227.3551485), [Code](https://github.com/severilov/phd-thesis), [Slides](https://github.com/severilov/phd-thesis/tree/main/slides)|
-| Vasiliy Alekseev | 4 | Incompleteness and Instability of Topic Models | [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov) | Slides1, Slides2 |
+| Vasiliy Alekseev | 4 | Incompleteness and Instability of Topic Models | [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov) | [Conf1](https://www.youtube.com/live/EdhnmkhkUiQ?feature=shared&t=6980) ([Slides1](http://www.machinelearning.ru/wiki/images/d/d4/Determination_of_the_Number_of_Topics_Intrinsically_Is_It_Possible.pdf)), Slides2 |
 
 #### Second Year Master Students
 
