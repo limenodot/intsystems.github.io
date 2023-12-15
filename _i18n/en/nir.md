@@ -56,6 +56,7 @@
 | Semkin Kirill | 4 | Tensor-SSA method in application to time series decomposition |  [Strijov V.V.](http://www.ccas.ru/strijov/) | [Paper](https://github.com/sem-k32/scientific_work_Semkin/blob/master/doc/Tensor_SSA_Semkin.pdf), [Code](https://github.com/sem-k32/scientific_work_Semkin/blob/master/main_experiment.ipynb), [Slides](https://github.com/sem-k32/scientific_work_Semkin/blob/master/doc/slides/Slides.pdf) |
 | Bogdanov Alexander | 4 | New Aspects of Black Box Conditional Gradient: Variance Reduction and One Point Feedback | [Beznosikov A. N.](https://anbeznosikov.github.io/) | [Paper](https://github.com/Dd0-s/BachelorThesis/blob/main/paper/BachelorThesis_paper.pdf), [Code](https://github.com/Dd0-s/BachelorThesis/tree/main/code), [Slides](https://github.com/Dd0-s/BachelorThesis/blob/main/slides/BachelorThesis_slides.pdf)|
 | Dorin Daniil | 4 | Spatial-temporal characteristics in the time series decoding | [Grabovoy A. V.](https://andriygav.github.io) | [Paper](https://github.com/Daniilmipt007/project_VKR/blob/master/paper/main.pdf), [Code](https://github.com/Daniilmipt007/project_VKR/blob/master/code), [Slides](https://github.com/Daniilmipt007/project_VKR/blob/master/slides/pres_NIR.pdf)|
+
 ### 2023 SPRING
 
 #### Postgraduate Students
