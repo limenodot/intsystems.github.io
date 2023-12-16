@@ -20,7 +20,7 @@
 | Klypa Roman | 2 | Generative modeling for protein structure and interactions | [Grudinin S.V.](https://team.inria.fr/nano-d/team-members/sergei-grudinin/) | [Slides](https://github.com/romanklypa/intsystems_thesis/blob/main/slides_nir2023fall.pdf), [Code](https://gricad-gitlab.univ-grenoble-alpes.fr/GruLab/multi-partner-diff)|
 | Polina Barabanshchikova | 2 | Tverberg type theorems |  [Polyanskii A.A.](http://polyanskii.com/)| [Paper](https://www.sciencedirect.com/science/article/pii/S0012365X23003801?via%3Dihub), [Slides](https://github.com/pollinab/MasterThesis/blob/main/Slides_Tverberg.pdf)
 | Konstantin Yakovlev | 2 | Concordant Neural Architecture Search on Multidomain Data | Bakhteev O. Y. | [Paper](https://github.com/Konstantin-Iakovlev/HyperOpt/blob/main/paper/HPO.pdf), [Slides](https://github.com/Konstantin-Iakovlev/HyperOpt/blob/main/slides/main.pdf), [Code](https://github.com/Konstantin-Iakovlev/HyperOpt/tree/main)
-| Ksenofontov Gregory | 2 |  Adversarial Schrödinger Bridges | [Roman Isachenko]() | [Code](https://github.com/gregkseno/master-thesis), [Slides](https://github.com/gregkseno/master-thesis/blob/master/slides/2nd/2nd%20term.pdf), [Draft](https://github.com/gregkseno/master-thesis/blob/master/paper/main.tex) |
+| Ksenofontov Gregory | 2 |  Adversarial Schrödinger Bridges | [Roman Isachenko]() | [Code](https://github.com/gregkseno/master-thesis), [Slides](https://github.com/gregkseno/master-thesis/blob/master/slides/3d/3d%20term.pdf), [Draft](https://github.com/gregkseno/master-thesis/blob/master/paper/main.tex) |
 
 #### First Year Master Students
 
